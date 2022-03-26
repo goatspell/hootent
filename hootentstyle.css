@@ -1,0 +1,38 @@
+/* Initial body */
+body {
+  background-color: white;
+}
+
+/* Initial menu */
+.menu {
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+}
+
+/* Basic styling */
+
+.menu ul { 
+}
+
+.menu li {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  padding: 5px;
+  font: sans-serif;
+}
+
+.menu a {
+  color: black;
+  font-size: 22px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu a:hover {
+  color: grey;
+  font-size: 22px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
